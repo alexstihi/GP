@@ -7,6 +7,6 @@ This is a tutorial introduction to Gaussian Processes(GP).
 In addition to the standard GP, this repo contains notebooks for:
 
 
- - [ ] Variational Sparse Model
+ - [ ] Variational Sparse Models
  - [ ] Heteroscedastic Noise Models
  - [ ] Variational Sparse Heteroscedastic Models
